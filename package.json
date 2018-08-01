@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jbuilder":"latest",
+    "request":"latest"
+  }
+}
